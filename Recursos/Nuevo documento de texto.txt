@@ -1,6 +1,0 @@
-arbis un puerto de router, le asignas ese puerto al juego,
-cuando desde la otra computadora te queres conectar al servidor del juego,
-desde el programa cliente, apuntar a la direccion ip publica del servidor
-
-
-HACER EL .JAR
