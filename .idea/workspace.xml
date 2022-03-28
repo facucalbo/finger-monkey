@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2a062721-bd2e-488d-aee8-99ffb83bef83" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursos/Nuevo documento de texto.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursos/Updates.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursos/fuentes/JUNGLEFE.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursos/fuentes/Jungle Roar Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursos/fuentes/Jungle Roar Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursos/fuentes/Jungle Zone.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursos/imagenes/FINGERMOKEY.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursos/imagenes/Indicador.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursos/imagenes/TRONCARDO_PIXEL.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursos/imagenes/barraTiempo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursos/imagenes/debug.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursos/imagenes/fondomenu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursos/imagenes/fondomenuprueba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursos/imagenes/jugadores.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursos/imagenes/logoprueba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursos/imagenes/mono 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursos/imagenes/mono 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursos/imagenes/monos1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursos/imagenes/monos1.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursos/imagenes/monosAzul.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursos/imagenes/monosRGB.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursos/imagenes/monosRGB.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursos/imagenes/monosRosa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursos/imagenes/monosVerde.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursos/imagenes/para el fondo 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursos/imagenes/para el fondo1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursos/imagenes/recuadro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursos/imagenes/si.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursos/imagenes/si_files/app.6633b6b495238dace76e.js.descarga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursos/imagenes/si_files/app2.50a9c969b35b21702839.js.descarga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursos/imagenes/si_files/cssm_app.518628acf44ed2d6366305c154bab09b.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursos/imagenes/si_files/cssm_qr.279e754ee08e20665b5974bcd1f3d1dd.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursos/imagenes/si_files/en.bb722ad73fe1c9a7111b.js.descarga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursos/imagenes/si_files/es.b61ef1d4cfbeae15d566.js.descarga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursos/imagenes/si_files/es.da0f114424bcfc98ac29.js.descarga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursos/imagenes/si_files/lazy_loaded_high_priority_components.a59bad3880901bf6a015.js.descarga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursos/imagenes/si_files/lazy_loaded_high_priority_components_lazy_loaded_low_priority_components.bafa7d92cad82dcd4813.js.descarga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursos/imagenes/si_files/lazy_loaded_low_priority_components.f5ae45268ea73f3c1d41.js.descarga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursos/imagenes/si_files/svg.0b5df186e3a19d445b32.js.descarga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursos/imagenes/si_files/vendor1_app.79f1f0c430bee0eaa2e3.js.descarga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursos/imagenes/si_files/vendors_app2.0a9602f532232b2f7896.js.descarga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursos/imagenes/si_files/vendors_lazy_loaded_high_priority_components_lazy_loaded_low_priority_components.2a0e4e79a825a19f345b.js.descarga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursos/imagenes/si_files/vendors_lazy_loaded_low_priority_components.a6fdf7fb664d16f7aead.js.descarga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/badlogic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/fondomenuprueba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/fuentes/JUNGLEFE.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/fuentes/Jungle Roar Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/fuentes/Jungle Zone.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/imagenes/Indicador.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/imagenes/TRONCARDO_PIXEL.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/imagenes/barraTiempo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/imagenes/fondoMenu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/imagenes/monos1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/imagenes/monosAzul.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/imagenes/monosRGB.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/imagenes/monosRosa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/imagenes/monosVerde.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/imagenes/recuadro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/assets/logoprueba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/fingermnokey/presa/Presa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/fingermonkey/FingerMonkey.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/fingermonkey/elementos/BarraTiempo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/fingermonkey/elementos/Imagen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/fingermonkey/elementos/Indicador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/fingermonkey/elementos/Letra.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/fingermonkey/elementos/Texto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/fingermonkey/habilidades/PoweUps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/fingermonkey/inouts/Entradas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/fingermonkey/jugadores/Jugador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/fingermonkey/objetosEscalables/ClimbingWall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/fingermonkey/objetosEscalables/Tronco.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/fingermonkey/pantallas/PantallaCarga.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/fingermonkey/pantallas/PantallaElegirPJ.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/fingermonkey/pantallas/PantallaMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/fingermonkey/pantallas/PantallaOpciones.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/fingermonkey/pantallas/PantallaUnJugador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/fingermonkey/pantallasJuegos/Juego.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/fingermonkey/pantallasJuegos/Multijugador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/fingermonkey/pantallasJuegos/Nivel1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/fingermonkey/personajes/MonoAzul.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/fingermonkey/personajes/MonoDefault.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/fingermonkey/personajes/MonoRGB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/fingermonkey/personajes/MonoRosa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/fingermonkey/personajes/MonoVerde.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/fingermonkey/personajes/Personaje.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/fingermonkey/red/HiloCliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/fingermonkey/screens/ScreenManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/fingermonkey/utilidades/Config.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/fingermonkey/utilidades/Multiuso.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/fingermonkey/utilidades/Recursos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/fingermonkey/utilidades/Render.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/fingermonkey/utilidades/Utiles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop/src/com/fingermonkey/desktop/DesktopLauncher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="26zTh7O9Agzk4Q51cS1t3wdZrq7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="DesktopLauncher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fingermonkey.desktop.DesktopLauncher" />
+      <module name="FingerMonkey.desktop.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fingermonkey.desktop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DesktopLauncher" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a062721-bd2e-488d-aee8-99ffb83bef83" name="Changes" comment="" />
+      <created>1648425530512</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648425530512</updated>
+    </task>
+    <servers />
+  </component>
+</project>
